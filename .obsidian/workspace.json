@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb8843b7e0345de",
+        "id": "02a5bb6879663bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "2f541d536c245aeb",
+            "id": "8facb8846a183783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "README"
             }
           }
         ]
@@ -182,9 +186,10 @@
   },
   "active": "dba98ae2e879822b",
   "lastOpenFiles": [
+    "README.md",
+    "Bienvenido.md",
     "Bitacora",
     "cree un enlace.md",
-    "Bienvenido.md",
     "bóveda.md",
     "Bitácora",
     "Linux",
